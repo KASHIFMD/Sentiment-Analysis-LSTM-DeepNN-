@@ -1,1 +1,3 @@
-# Sentiment-Analysis-LSTM-DeepNN-
+# Sentiment Analysis LSTM RNNs
+
+![](AERT.png)
